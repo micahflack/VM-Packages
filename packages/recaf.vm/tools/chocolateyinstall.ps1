@@ -1,7 +1,7 @@
 $ErrorActionPreference = 'Stop'
 Import-Module vm.common -Force -DisableNameChecking
 
-$toolName = 'recaf-2.21.14-J8-jar-with-dependencies.jar'
+$toolName = 'recaf-2.21.14-J8-jar-with-dependencies'
 $category = 'Java & Android'
 
 $exeUrl = 'https://github.com/Col-E/Recaf/releases/download/2.21.14/recaf-2.21.14-J8-jar-with-dependencies.jar'
